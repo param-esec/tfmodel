@@ -1,0 +1,8 @@
+0  Harness
+1  Helmet
+2  Mask
+3  NO-Helmet
+4  NO-Mask
+5  NO-Vest
+6  Person
+7  Vest
