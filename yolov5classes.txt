@@ -1,0 +1,15 @@
+0  Glove
+1  Hardhat
+2  Helmet
+3  Mask
+4  NO Goggle
+5  NO Hardhat
+6  NO Mask
+7  NO Vest
+8  NO-Hardhat
+9  NO-Mask
+10  NO-Safety Vest
+11  Person
+12  Safety Vest
+13  Vest
+14  sedan
