@@ -1,0 +1,3 @@
+0  Helmet
+1  Person
+2  Vest
